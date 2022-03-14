@@ -2,8 +2,9 @@
 int flag = 0;
 int i = 0, length1, length2, Finalstr = 0;
 
-Console.Write("\n\nCompare two strings whether they are equal or not :\n");
-Console.Write("Input the 1st string : ");
+Console.WriteLine("Compare two strings whether they are equal or not : ");
+
+Console.WriteLine("Input the 1st string : ");
 string1 = Console.ReadLine();
 
 Console.Write("Input the 2nd string : ");
